@@ -5,3 +5,4 @@ Current topics are:
 1. [OSI & TCP/IP](01-osi-tcpip.md)
 2. [OverTheWire Bandit Commands - Levels 0-10](02-bandit-levels-0-10.md)
 3. [HTML Injection](03-html-injection.md)
+4. [Finding Stale Active Directory Accounts with PowerShell](04-finding-stale-ad-accounts-powershell.md)
