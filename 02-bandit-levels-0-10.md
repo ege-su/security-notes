@@ -1,3 +1,5 @@
+<p align="right"><sub>September 21, 2026</sub></p>
+
 # OverTheWire Bandit Commands — Levels 0-10
 
 Here is the list of commands I used to pass the challenges 0 to 10. Level goals are taken directly from
