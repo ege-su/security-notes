@@ -1,3 +1,5 @@
+<p align="right"><sub>September 21, 2026</sub></p>
+
 # HTML Injection
 
 HTML injection is a web vulnerability that occurs when a website takes user-controlled input and inserts it into a page as HTML without properly encoding or sanitizing it.
