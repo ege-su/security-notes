@@ -1,3 +1,5 @@
+<p align="right"><sub>September 28, 2026</sub></p>
+
 # Finding Stale Active Directory Accounts with PowerShell
 
 A stale Active Directory account is an account that still exists in the directory but has not been used for a significant amount of time. This does not automatically mean the account should be deleted. A user may be on long-term leave, an account may belong to a service, or an administrator account may simply be used rarely. However, unused accounts are worth reviewing because forgotten but still-enabled accounts increase the attack surface of a domain.
