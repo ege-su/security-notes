@@ -1,3 +1,5 @@
+<p align="right"><sub>September 15, 2026</sub></p>
+
 # OSI and TCP/IP — In My Own Words
 
 The OSI (Open Systems Interconnection) model divides network communication into seven layers. Each layer is responsible for a different part of getting data from one device to another.
