@@ -8,3 +8,4 @@ Current topics are:
 4. [Finding Stale Active Directory Accounts with PowerShell](04-finding-stale-ad-accounts-powershell.md)
 5. [Investigating /tmp on macOS: How I Traced a Runaway LaunchAgent](05-macos-tmp-launchagent-investigation.md)
 6. [OverTheWire Bandit Commands - Levels 11-20](06-bandit-levels-11-20.md)
+7. [Does Screenshotting Remove Photo Metadata?](07-screenshot-metadata-privacy.md)
