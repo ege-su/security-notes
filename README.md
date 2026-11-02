@@ -9,3 +9,5 @@ Current topics are:
 5. [Investigating /tmp on macOS: How I Traced a Runaway LaunchAgent](05-macos-tmp-launchagent-investigation.md)
 6. [OverTheWire Bandit Commands - Levels 11-20](06-bandit-levels-11-20.md)
 7. [Does Screenshotting Remove Photo Metadata?](07-screenshot-metadata-privacy.md)
+8. [Monitoring Filesystem Activity on macOS: An LM Studio Case Study](08-monitoring-filesystem-activity.md)
+9. [Listening Ports on macOS: All Interfaces vs. Localhost](09-listening-ports-macos.md)
